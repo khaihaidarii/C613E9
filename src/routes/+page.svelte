@@ -13,7 +13,7 @@
 
 <div class="flex flex-col gap-8 md:items-center">
 	<div class="flex items-center gap-4">
-		<img src="/favicon.svg" alt="logo" />
+		<img src="/favicon.ico" alt="logo" class="w-[32px]" />
 		<p><span class="font-bold">Dara </span><span>Exchange &#8482;</span></p>
 	</div>
 	<div class="flex flex-col gap-4 md:text-center">
